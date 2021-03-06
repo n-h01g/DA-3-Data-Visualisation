@@ -26,7 +26,9 @@ American Eagle Airlines had the most flight cancellations between 2001 and 2007.
 
 ### Key Insights for Presentation
 
-The final presentation of the results can be found [here](Presentation_Explanatory_US_Flight_Cancellation.ipynb). Flight cancellations were focussed on for the presentation. Specifically, attempting to identify whether the industry had decreased the number of flight cancellations between 2001 and 2007, what airports were most likely to suffer flight cancelations, when and which airlines were most likely to suffer flight cancelations.
+The final presentation of the results can be found [here](Presentation_Explanatory_US_Flight_Cancellation.ipynb). 
+
+Flight cancellations were focussed on for the presentation. Specifically, attempting to identify whether the industry had decreased the number of flight cancellations between 2001 and 2007, what airports were most likely to suffer flight cancelations, when and which airlines were most likely to suffer flight cancelations.
 
 ### Prerequisites
 - Python 3.6.3
