@@ -14,10 +14,23 @@ The original dataset has 29 columns. However, for the purpose of this analysis, 
 
 ### Conclusions
 
-The number of flights and flight cancellations in the U.S. between 2001 and 2007 increased. Crucially, so had the percentage of flights cancelled suggesting the industry was not improving in this factor.
+The final presentation of the results can be found [here](Presentation_Explanatory_US_Flight_Cancellation_Analysis.ipynb)
+
+To summarise, the number of flights and flight cancellations in the U.S. between 2001 and 2007 increased. Crucially, so had the percentage of flights cancelled suggesting the industry was not improving in this factor.
 
 Flight cancellations were more likely during Winter months, during the working week and in the early morning or late afternoon.
 
 Major international airports had a higher proportion of flight cancellations with LaGuardia, Chicago O'Hare and Newark being the worse performing.
 
 All U.S. airlines had increased their percentage of flights cancelled between 2003 and 2007 with United Air Lines, Atlantic Southeast Airlines and JetBlue Airways having the greatest increases.
+
+### Prerequisites
+- Python 3.6.3
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - os
+  - glob
+  - shutil
+- Jupyter Notebook
