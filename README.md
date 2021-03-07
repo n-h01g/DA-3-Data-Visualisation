@@ -1,5 +1,27 @@
 # U.S. Flight Cancellation Analysis
 
+## Tool and Skills Used
+
+### Tools
+- Python 3.6.3
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - os
+  - glob
+  - shutil
+- Jupyter Notebook
+
+### Skills
+- Big data integration
+- Data exploration
+- Data wrangling
+- Data visualisation
+- Communication of findings
+
+## Project Details
+
 ### Investigation Overview
 
 Flight cancellations are frustrating. They are an unfortunate risk to all air travel. But can you reduce the risk that your flight will be cancelled by choosing a specific carrier, location or time of travel?
@@ -30,13 +52,3 @@ The final presentation of the results can be found [here](Presentation_Explanato
 
 Flight cancellations were focussed on for the presentation. Specifically, attempting to identify whether the industry had decreased the number of flight cancellations between 2001 and 2007, what airports were most likely to suffer flight cancelations, when and which airlines were most likely to suffer flight cancelations.
 
-### Prerequisites
-- Python 3.6.3
-  - numpy
-  - pandas
-  - matplotlib
-  - seaborn
-  - os
-  - glob
-  - shutil
-- Jupyter Notebook
