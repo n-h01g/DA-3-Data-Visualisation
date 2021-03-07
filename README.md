@@ -1,8 +1,15 @@
-# U.S. Flight Cancellation Analysis
+<p align="center">
+  <a href="https://www.udacity.com/">
+    <img src='https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/5511/s300/udacity-logo.png' alt="Udacity logo" width = 100px>
+   </a>
+</p>
 
-## Tools and Skills Used
+<h1 align="center"><a href = "https://www.udacity.com/course/data-analyst-nanodegree--nd002"> Udacity Data Analyst Nanodegree </a></h1>
+<h2 align="center">Project III: Data Visualization<br><br>U.S. Flight Cancellation Analysis</h2>
 
-### Tools
+### Tools and Skills Used
+
+#### Tools
 - Python 3.6.3
   - numpy
   - pandas
@@ -13,28 +20,28 @@
   - shutil
 - Jupyter Notebook
 
-### Skills
+#### Skills
 - Big data integration
 - Data exploration
 - Data wrangling
 - Data visualisation
 - Communication of findings
 
-## Project Details
+### Project Details
 
-### Investigation Overview
+#### Investigation Overview
 
 Flight cancellations are frustrating. They are an unfortunate risk to all air travel. But can you reduce the risk that your flight will be cancelled by choosing a specific carrier, location or time of travel?
 
 Utilizing graphical techniques, an analysis has been conducted of all commercial 21st Century flights in the U.S. using the The Bureau of Transportation Statistics records from 2001 to 2007. The analysis focussed on flight cancellations to elucidate potential answers to the above question, help inform the traveller prior to making their booking and perhaps encourage airlines and/or airports to improve their performance.
 
-### Dataset Overview
+#### Dataset Overview
 
 The dataset consists of flight arrival and departure details for all commercial flights within the USA, from 2001 to 2007. This is a large dataset with nearly 47 million records in total and takes up almost 6 gigabytes of hard disk space.
 
 The original dataset has 29 columns. However, for the purpose of this analysis, to understand causes of flight cancellations, the dataset has been trimmed to only hold the year, month, day of week and scheduled departure time of flight, the airline, the departure airport, whether the flight was cancelled and the reason for cancellation including carrier, weather, National Aviation System or security.
 
-### Summary of Findings
+#### Summary of Findings
 
 Most flights that were delayed only had a few minutes delay. Late Aircraft Delay had the greatest sum of delays in minutes with Security delays having the least. Security delays caused flight delays of less than 500 minutes, whereas carrier delays resulted in the lengthiest delays in the dataset.
 
@@ -46,9 +53,8 @@ Major international airports had a higher proportion of flight cancellations wit
 
 American Eagle Airlines had the most flight cancellations between 2001 and 2007. The most common reason for most airlines for cancellation was themselves, followed by weather and the National Aviation System. Security very rarely was a cause for cancellation. All U.S. airlines had increased their percentage of flights cancelled between 2003 and 2007 with United Air Lines, Atlantic Southeast Airlines and JetBlue Airways having the greatest increases. 
 
-### Key Insights for Presentation
+#### Key Insights for Presentation
 
 The final presentation of the results can be found [here](Presentation_Explanatory_US_Flight_Cancellation.ipynb). 
 
 Flight cancellations were focussed on for the presentation. Specifically, attempting to identify whether the industry had decreased the number of flight cancellations between 2001 and 2007, what airports were most likely to suffer flight cancelations, when and which airlines were most likely to suffer flight cancelations.
-
