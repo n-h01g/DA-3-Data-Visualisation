@@ -1,6 +1,6 @@
 # U.S. Flight Cancellation Analysis
 
-## Tool and Skills Used
+## Tools and Skills Used
 
 ### Tools
 - Python 3.6.3
