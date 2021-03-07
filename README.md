@@ -5,9 +5,10 @@
 </p>
 
 <h1 align="center"><a href = "https://www.udacity.com/course/data-analyst-nanodegree--nd002"> Udacity Data Analyst Nanodegree </a></h1>
-<h2 align="center">Project III: Data Visualization<br><br>U.S. Flight Cancellation Analysis</h2>
+<h2 align="center">Project III: Data Visualization<br></h2>
+<p align="center">Utilised Python’s data visualization tools to systematically explore a dataset for its properties and relationships between variables, and then created a presentation to communicate findings to others.</p>
+<h2 align="center"><br>U.S. Flight Cancellation Analysis<br></h2>
 
-Utilised Python’s data visualization tools to systematically explore a dataset for its properties and relationships between variables, and then created a presentation to communicate findings to others.
 
 ### Tools and Skills Used
 
